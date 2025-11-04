@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Jiuhong You
+title: Jiuhong You
 
 # Name pronunciation (optional)
 name_pronunciation: ''
